@@ -1,9 +1,16 @@
 [
-    {
-      "color": "FF0000",
-      "dopname": "Nexal Roleplay",
-      "maxonline": 1000,
-      "name": "Red",
-      "online": 23
-    }
+  {
+    "color": "FF0000",
+    "dopname": "Nexal Roleplay",
+    "maxonline": 1000,
+    "name": "Red",
+    "online": 23
+  },
+  {
+    "color": "FF0000",
+    "dopname": "All Kerala Roleplay",
+    "maxonline": 1000,
+    "name": "Red",
+    "online": 78
+  }
 ]
