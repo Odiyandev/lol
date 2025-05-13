@@ -4,13 +4,8 @@
     "dopname": "Nexal Roleplay",
     "maxonline": 1000,
     "name": "Red",
-    "online": 23
-  },
-  {
-    "color": "FF0000",
-    "dopname": "All Kerala Roleplay",
-    "maxonline": 1000,
-    "name": "Red",
-    "online": 78
+    "online": 23,
+    "ip": "172.232.115.25",
+    "port": 7792
   }
 ]
