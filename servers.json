@@ -16,5 +16,23 @@
     "online": 23,
     "ip": "172.232.115.25",
     "port": 8646
+  },
+   {
+    "color": "FA0000",
+    "dopname": "NAJU Roleplay",
+    "maxonline": 1000,
+    "name": "Red",
+    "online": 23,
+    "ip": "172.235.19.86",
+    "port": 7888
+  },
+  {
+    "color": "FA0000",
+    "dopname": "CARLO Roleplay",
+    "maxonline": 1000,
+    "name": "Red",
+    "online": 23,
+    "ip": "148.113.8.240",
+    "port": 1111
   }
 ]
