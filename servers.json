@@ -34,5 +34,14 @@
     "online": 23,
     "ip": "148.113.8.240",
     "port": 1111
+  },
+  {
+    "color": "FA0000",
+    "dopname": "All Kerala Roleplay",
+    "maxonline": 1000,
+    "name": "AKRP",
+    "online": 23,
+    "ip": "148.113.27.145",
+    "port": 7022
   }
 ]
