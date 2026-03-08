@@ -37,11 +37,11 @@
   },
   {
     "color": "FA0000",
-    "dopname": "All Kerala Roleplay",
+    "dopname": "XLantis Roleplay",
     "maxonline": 1000,
-    "name": "AKRP",
+    "name": "XRP",
     "online": 23,
-    "ip": "148.113.27.145",
-    "port": 7022
+    "ip": "148.113.25.124",
+    "port": 7666
   }
 ]
