@@ -1,47 +1,11 @@
 [
   {
     "color": "FF0000",
-    "dopname": "Nexal Roleplay",
+    "dopname": "Navadar Roleplay",
     "maxonline": 1000,
-    "name": "Red",
+    "name": "Navadar Roleplay",
     "online": 23,
-    "ip": "51.79.144.82",
-    "port": 3333
-  },
-  {
-    "color": "FF0000",
-    "dopname": "odi Roleplay",
-    "maxonline": 1000,
-    "name": "Red",
-    "online": 23,
-    "ip": "172.232.115.25",
-    "port": 7792
-  },
-   {
-    "color": "FA0000",
-    "dopname": "NAJU Roleplay",
-    "maxonline": 1000,
-    "name": "Red",
-    "online": 23,
-    "ip": "172.235.19.86",
-    "port": 7888
-  },
-  {
-    "color": "FA0000",
-    "dopname": "CARLO Roleplay",
-    "maxonline": 1000,
-    "name": "Red",
-    "online": 23,
-    "ip": "148.113.8.240",
-    "port": 1111
-  },
-  {
-    "color": "FA0000",
-    "dopname": "XLantis Roleplay",
-    "maxonline": 1000,
-    "name": "XRP",
-    "online": 23,
-    "ip": "148.113.25.124",
-    "port": 7666
+    "ip": "15.235.128.112",
+    "port": 7259
   }
 ]
