@@ -7,5 +7,14 @@
     "online": 23,
     "ip": "15.235.128.112",
     "port": 7028
+  },
+   {
+    "color": "00FF00",
+    "dopname": "All Kerala Roleplay",
+    "maxonline": 1000,
+    "name": "All Kerala Roleplay",
+    "online": 23,
+    "ip": "15.235.128.112",
+    "port": 7259
   }
 ]
